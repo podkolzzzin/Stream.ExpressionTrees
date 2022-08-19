@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTrees.Stream", "ExpressionTrees.Stream\ExpressionTrees.Stream.csproj", "{DD9DDBC2-BFA0-46F6-9845-FB461E466252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionBuilding", "ExpressionBuilding\ExpressionBuilding.csproj", "{3E916F8D-8C65-4F4F-8D3C-E7BF04CA91D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9DDBC2-BFA0-46F6-9845-FB461E466252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9DDBC2-BFA0-46F6-9845-FB461E466252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9DDBC2-BFA0-46F6-9845-FB461E466252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9DDBC2-BFA0-46F6-9845-FB461E466252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E916F8D-8C65-4F4F-8D3C-E7BF04CA91D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E916F8D-8C65-4F4F-8D3C-E7BF04CA91D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E916F8D-8C65-4F4F-8D3C-E7BF04CA91D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E916F8D-8C65-4F4F-8D3C-E7BF04CA91D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
